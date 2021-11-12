@@ -1,0 +1,36 @@
+
+h1
+{
+    color:firebrick;
+    text-align: center;
+    font-family: 'Calibri';
+    font-size: 48px;
+}
+a
+{
+    text-decoration: none;
+    color:green;
+    font-family:'Calibri';
+    font-size: 35px;
+    margin:10px;
+}
+h4
+{
+    font-family: 'Calibri';
+    font-size: 30px;
+    color: purple;
+    padding:10px;
+}
+table
+{
+    border: 4px solid black;
+
+
+}
+td,th
+{
+    border:3px solid black;
+    font-size: 18px;
+    font-family: 'Calibri';
+    padding:2px;
+}
